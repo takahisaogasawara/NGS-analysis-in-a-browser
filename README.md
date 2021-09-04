@@ -1,13 +1,13 @@
 ブラウザで解析できるツール
-====
+======================================
 
-bulkRNAseq
 
-## iDEP
+## bulkRNAseq
+iDEP
+Degust
 
-## Degust
-
-## ShinyGO
+エンリッチメント
+ShinyGO
 
 bulkRNAseq or scRNAseq
 ## NASQER
