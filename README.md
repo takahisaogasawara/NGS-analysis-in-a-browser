@@ -3,7 +3,8 @@
 
 
 ## bulkRNAseq
-iDEP
+[iDEP](http://10.164.179.3/idep92/)
+
 
 Degust
 
