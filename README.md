@@ -30,7 +30,7 @@
 
 
 ## プログラミング
-・[jupyter notebook](http://10.164.179.3:8888/tree)
+・[jupyter notebook](http://10.164.179.3:8888/tree) scRNAseq analysisに特化
 
 
 
