@@ -1,7 +1,7 @@
-PhRET 
+ブラウザで解析できるツール
 ====
 
-Overview
+bulkRNAseq
 
 ## iDEP
 
@@ -9,7 +9,10 @@ Overview
 
 ## ShinyGO
 
+bulkRNAseq or scRNAseq
 ## NASQER
+
+メタボローム解析
 
 ## MetaboAnalysit4.0
 
