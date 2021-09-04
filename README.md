@@ -3,7 +3,7 @@
 
 
 ## bulkRNAseq
-[iDEP](http://10.164.179.3/idep92/)
+・[iDEP](http://10.164.179.3/idep92/)
 
 
 [Degust](http://10.164.179.3:8001/)
