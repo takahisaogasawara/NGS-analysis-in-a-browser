@@ -14,7 +14,7 @@ PhRET所有の高性能計算機にインストールされている解析ツー
 
 
 
-## bulkRNAseq or scRNAseq　解析
+## bulkRNAseq or scRNAseq解析
 ・[NASQER](http://10.164.179.3:8083/)
 
 
