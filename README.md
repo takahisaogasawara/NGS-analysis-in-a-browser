@@ -9,16 +9,16 @@
 Degust
 
 
-##エンリッチメント
+## エンリッチメント
 
 ShinyGO
 
-##bulkRNAseq or scRNAseq
+## bulkRNAseq or scRNAseq
 
 NASQER
 
 
-##メタボローム解析
+## メタボローム解析
 
 MetaboAnalysit4.0
 
