@@ -33,9 +33,8 @@
 ・[jupyter notebook](http://10.164.179.3:8888/tree) コードが書けるか修正して動かせる方向け
 
 
-'ghq' get [-u] [-p] (<repository URL> | <user>/<project> | <project>)
-'ghq' list [-p] [-e] [<query>]
-'ghq' look (<project> | <path/to/project>)
-'ghq' import starred [-u] [-p] <user>
-'ghq' import pocket [-u]
 
+# 見出し１(h1)
+## 見出し２(h2)
+### 見出し３(h3)
+#### 見出し４(h4)
