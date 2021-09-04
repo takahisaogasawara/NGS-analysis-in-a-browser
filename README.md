@@ -2,19 +2,19 @@ PhRET所有の高性能計算機にインストールされている解析ツー
 ========================================================
 
 
-## bulkRNAseq
+## bulkRNAseq解析
 ・[iDEP](http://10.164.179.3/idep92/)
 
 ・[Degust](http://10.164.179.3:8001/)
 
 
 
-## GO analysis
+## エンリッチメント解析
 ・[ShinyGO](http://10.164.179.3/go60/)
 
 
 
-## bulkRNAseq or scRNAseq
+## bulkRNAseq or scRNAseq　解析
 ・[NASQER](http://10.164.179.3:8083/)
 
 
@@ -24,13 +24,13 @@ PhRET所有の高性能計算機にインストールされている解析ツー
 
 
 
-## 作図
+## 多変量データのクラスタリングと可視化
 ・[ClustVis](http://10.164.179.3:3737/)
 
 
 
-## プログラミング
-・[jupyter notebook](http://10.164.179.3:8888/tree)  scRNAseq analysisに特化しています。コードが書ける方向け
+## プログラミング　 (Python, R)　scRNAseq向けのパッケージとデータベースを仕込み済み
+・[jupyter notebook](http://10.164.179.3:8888/tree) コードが書ける方か修正して動かせる方向け
 
 
 
