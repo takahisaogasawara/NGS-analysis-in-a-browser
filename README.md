@@ -46,7 +46,7 @@
 
 ・[JupyterLab](http://10.164.179.3:8888/lab?token=10015d491611a8b718f71f828b155fa5f802c3b0e3f20c85)　プログラミングの練習にお使いください。現在Pythonバイオ情報解析のコードが通るJupyter環境を構築中です。<br>
 <br><br>
-おすすめ本 <br>
+おすすめ本 勉強の為、自費で購入しました。見てみたい方は小笠原まで<br>
 ![9784758122498](https://user-images.githubusercontent.com/90075072/132149791-47cfee35-9f1a-419f-a570-c9d66f1e233b.jpg)
 
 
