@@ -13,7 +13,8 @@
 <br>
 
 ### エンリッチメント解析
-・[ShinyGO](http://10.164.179.3/go60/)
+・[ShinyGO](http://10.164.179.3/go60/)<br>
+![shinygo](https://user-images.githubusercontent.com/90075072/132150665-34043d1c-5c6d-4a1b-9502-c56f192ec21b.png)
 <br>
 <br>
 
