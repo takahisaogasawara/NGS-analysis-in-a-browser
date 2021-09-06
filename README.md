@@ -30,7 +30,7 @@
 <br>
 
 ### プログラミング環境 (Python, R)　scRNAseq向けのパッケージとDBを仕込み済み
-・[jupyter notebook](http://10.164.179.3:8888/tree/PhRET) トークン（78f63cfd56e684db6b90ab23bd834dc946331d0cadadfa9a）
+・[jupyter notebook](http://10.164.179.3:8888/tree/PhRET) 　　　トークン（78f63cfd56e684db6b90ab23bd834dc946331d0cadadfa9a）
 
 <br>
 
