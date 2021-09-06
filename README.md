@@ -35,6 +35,7 @@
 9/6~ トークン（78f63cfd56e684db6b90ab23bd834dc946331d0cadadfa9a）
 <br>
 おすすめ本
-![9784758122498](https://user-images.githubusercontent.com/90075072/132149682-cda11e5b-54ae-43a2-b712-4ab24c406134.jpg)
+![9784758122498](https://user-images.githubusercontent.com/90075072/132149791-47cfee35-9f1a-419f-a570-c9d66f1e233b.jpg)
+
 
 
