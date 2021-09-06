@@ -41,9 +41,7 @@
 <br>
 
 ### プログラミング環境 (Python, R)　scRNAseq向けのパッケージとDBを仕込み済み
-・[Jupyter Notebook](http://10.164.179.3:8888/tree/PhRET)<br>
-・[Jupyter Notebook](http://10.164.179.3:8888/tree/PhRET?token=78f63cfd56e684db6b90ab23bd834dc946331d0cadadfa9a
-)<br>
+・[Jupyter Notebook](http://10.164.179.3:8888/tree/PhRET?token=78f63cfd56e684db6b90ab23bd834dc946331d0cadadfa9a)<br>
 ![jupyternotebook](https://user-images.githubusercontent.com/90075072/132151234-c55f27a7-9663-4e25-a213-7e50d237b21b.png)
 
 <br>
