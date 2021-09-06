@@ -30,7 +30,7 @@
 <br>
 
 ### プログラミング環境 (Python, R)　scRNAseq向けのパッケージとDBを仕込み済み
-・[jupyter notebook](http://10.164.179.3:8888/tree) コードが書けるか修正して動かせる方向け
+・[jupyter notebook](http://10.164.179.3:8888/tree/PhRET) 
 <br>
 
 
