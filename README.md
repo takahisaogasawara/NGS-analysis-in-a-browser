@@ -46,10 +46,14 @@
 
 <br>
 9/6~ トークン（78f63cfd56e684db6b90ab23bd834dc946331d0cadadfa9a）
-<br><br>
-おすすめ本 <br>
+
 
 ![9784758122498](https://user-images.githubusercontent.com/90075072/132149791-47cfee35-9f1a-419f-a570-c9d66f1e233b.jpg)
+
+
+・[JupyterLab](http://127.0.0.1:8888/lab?token=5ca81834907f7854fb078330c748ac487a38d96fb608638d)
+<br><br>
+おすすめ本 <br>
 
 
 
