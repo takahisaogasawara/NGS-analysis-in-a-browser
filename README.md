@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### プログラミング環境 (Python, R)　scRNAseq向けのパッケージとDBを仕込み済み
+### プログラミング環境 (Python, R)　scRNAseq解析に必要な環境が構築されています。
 ・[Jupyter Notebook](http://10.164.179.3:8888/tree/PhRET?token=78f63cfd56e684db6b90ab23bd834dc946331d0cadadfa9a)　[中戸研究室で作成された解析環境を利用させていただきました](https://singlecellanalysistutorial.readthedocs.io/en/latest/)<br>
 ![jupyternotebook](https://user-images.githubusercontent.com/90075072/132151234-c55f27a7-9663-4e25-a213-7e50d237b21b.png)
 
