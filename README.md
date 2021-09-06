@@ -14,7 +14,7 @@
 <br>
 <br>
 
-### bulkRNAseq or scRNAseq解析
+### RNAseq or scRNAseq データ解析
 ・[NASQER](http://10.164.179.3:8083/)
 <br>
 <br>
